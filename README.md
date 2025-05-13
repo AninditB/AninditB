@@ -64,8 +64,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aninditbordoloi&show_icons=true&theme=radical" alt="Anindit's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninditbordoloi&layout=compact&theme=radical" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aninditb&show_icons=true&theme=radical" alt="Anindit's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninditb&layout=compact&theme=radical" alt="Top Languages" /></td>
   </tr>
 </table>
 
