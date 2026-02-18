@@ -5,7 +5,7 @@
 
 **`Graduate Student | Software Developer | Problem Solver`**
 
-🎓 Master’s in Computer Science Graduate from Texas State University (GPA: 3.75)  
+🎓 Master’s in Computer Science Graduate from Texas State University 
 🌱 Exploring High Performance Computing, AI Sustainability, and Software Architecture  
 🧠 Passionate about solving real-world problems using efficient code and clean design  
 💼 Former Associate Consultant at Capgemini Pvt. Ltd. with 3+ years of industry experience
