@@ -17,7 +17,18 @@
 - 🧩 Love tackling complex coding challenges in C++, Python, and Java
 - 📬 Reach me at: [aninditbordoloi.mail011@gmail.com](mailto:aninditbordoloi.mail011@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/aninditbordoloi](https://www.linkedin.com/in/anindit-bordoloi-452971109)
-- 💼 Actively seeking full-time roles in **Software Development / AI / Systems Engineering**
+- 💼 Open to opportunities in **Software Development / AI / Systems Engineering**
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [HPC False-Sharing Detection](https://github.com/AninditB/HPC-False-Sharing-Detection) | Generates labeled hardware-performance-counter data from OpenMP C programs and trains an ML classifier to detect false-sharing pathologies | C, OpenMP, ML |
+| [ShortLink (URL Shortener)](https://github.com/AninditB/URL-shortener) | A URL shortener built as a phased engineering project — CRUD, caching/auth, event-driven analytics, observability, and distributed scale | Java |
+| [TrailLink](https://github.com/AninditB/traillink) | Expo React Native app for discovering, creating, and joining trek groups, with a Node.js/Express + MongoDB backend | React Native, Node.js, MongoDB |
+| [Buy-Sell-Store](https://github.com/AninditB/Buy-Sell-Store) | Full-stack marketplace where users browse books and home goods, manage a cart/wishlist, checkout, and sellers list inventory | JavaScript |
 
 ---
 
