@@ -56,17 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aninditb&show_icons=true&theme=radical" alt="Anindit's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninditb&layout=compact&theme=radical" alt="Top Languages" /></td>
-  </tr>
-</table>
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anindit-bordoloi-452971109)
