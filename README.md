@@ -14,7 +14,6 @@
 
 ### 🚀 More About Me
 
-- 🔭 Currently working on 
 - 🧩 Love tackling complex coding challenges in C++, Python, and Java
 - 📬 Reach me at: [aninditbordoloi.mail011@gmail.com](mailto:aninditbordoloi.mail011@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/aninditbordoloi](https://www.linkedin.com/in/anindit-bordoloi-452971109)
