@@ -17,6 +17,7 @@
 - 🧩 Love tackling complex coding challenges in C++, Python, and Java
 - 📬 Reach me at: [aninditbordoloi.mail011@gmail.com](mailto:aninditbordoloi.mail011@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/aninditbordoloi](https://www.linkedin.com/in/anindit-bordoloi-452971109)
+- 🌐 Portfolio: [aninditb.github.io/pages](https://aninditb.github.io/pages/)
 - 💼 Open to opportunities in **Software Development / AI / Systems Engineering**
 
 ---
